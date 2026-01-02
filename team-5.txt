@@ -4,6 +4,7 @@ this is adham
 This is abdo emad...
 This is Mostafa
 Test diff command
+diff mostaFA
 
 Hello World
 Hiiii
