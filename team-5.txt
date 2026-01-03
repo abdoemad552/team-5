@@ -7,3 +7,4 @@ Test diff command
 diff mostaFA
 Hello World
 Hiiii
+adham change
